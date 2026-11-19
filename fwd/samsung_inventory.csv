@@ -1,0 +1,101 @@
+Product_ID,Category,Model,Price_INR,Stock_Status,Warranty_Years
+SAM001,Mobile,Samsung Galaxy S24 Ultra (256GB),129999,Available,1
+SAM002,Mobile,Samsung Galaxy S24 Ultra (512GB),139999,Available,1
+SAM003,Mobile,Samsung Galaxy S24 Plus (256GB),99999,Limited Stock,1
+SAM004,Mobile,Samsung Galaxy S24 (256GB),79999,Available,1
+SAM005,Mobile,Samsung Galaxy Z Fold 6 (512GB),164999,Available,1
+SAM006,Mobile,Samsung Galaxy Z Fold 6 (1TB),184999,Out of Stock,1
+SAM007,Mobile,Samsung Galaxy Z Flip 6 (256GB),89999,Available,1
+SAM008,Mobile,Samsung Galaxy S23 Ultra (256GB),109999,Available,1
+SAM009,Mobile,Samsung Galaxy S23 FE (128GB),54999,Limited Stock,1
+SAM010,Mobile,Samsung Galaxy A55 5G (256GB),42999,Available,1
+SAM011,Mobile,Samsung Galaxy A35 5G (128GB),30999,Available,1
+SAM012,Mobile,Samsung Galaxy M55 5G (256GB),29999,Available,1
+SAM013,Mobile,Samsung Galaxy M34 5G (128GB),18999,Out of Stock,1
+SAM014,Mobile,Samsung Galaxy F54 5G (256GB),24999,Available,1
+SAM015,Mobile,Samsung Galaxy F15 5G (128GB),12999,Available,1
+SAM016,Mobile,Samsung Galaxy A15 5G (128GB),17999,Available,1
+SAM017,Mobile,Samsung Galaxy S22 (128GB),39999,Out of Stock,1
+SAM018,Mobile,Samsung Galaxy Z Fold 5 (256GB),134999,Available,1
+SAM019,Mobile,Samsung Galaxy Z Flip 5 (256GB),74999,Limited Stock,1
+SAM020,Mobile,Samsung Galaxy XCover 7,27999,Available,1
+SAM021,Tablet,Samsung Galaxy Tab S9 Ultra (Wi-Fi),119999,Available,1
+SAM022,Tablet,Samsung Galaxy Tab S9+ (5G),104999,Available,1
+SAM023,Tablet,Samsung Galaxy Tab S9 (Wi-Fi),72999,Available,1
+SAM024,Tablet,Samsung Galaxy Tab S9 FE+ (Wi-Fi),46999,Limited Stock,1
+SAM025,Tablet,Samsung Galaxy Tab S9 FE (5G),44999,Available,1
+SAM026,Tablet,Samsung Galaxy Tab A9+ (Wi-Fi),20999,Available,1
+SAM027,Tablet,Samsung Galaxy Tab A9 (LTE),15999,Available,1
+SAM028,Laptop,Samsung Galaxy Book4 Pro 360,164999,Available,1
+SAM029,Laptop,Samsung Galaxy Book4 Pro (14-inch),134999,Out of Stock,1
+SAM030,Laptop,Samsung Galaxy Book4 Ultra,249999,Limited Stock,1
+SAM031,Laptop,Samsung Galaxy Book3 Pro,114999,Available,1
+SAM032,Laptop,Samsung Galaxy Book Go,39999,Available,1
+SAM033,Wearable,Samsung Galaxy Watch 6 Classic (47mm),40999,Available,1
+SAM034,Wearable,Samsung Galaxy Watch 6 (44mm),32999,Available,1
+SAM035,Wearable,Samsung Galaxy Watch 5 Pro,34999,Limited Stock,1
+SAM036,Wearable,Samsung Galaxy Fit 3,4999,Available,1
+SAM037,Audio,Samsung Galaxy Buds 2 Pro,15999,Available,1
+SAM038,Audio,Samsung Galaxy Buds FE,7999,Available,1
+SAM039,Audio,Samsung Galaxy Buds 2,9999,Out of Stock,1
+SAM040,TV,Samsung 85-inch Neo QLED 8K,950000,Limited Stock,2
+SAM041,TV,Samsung 75-inch Neo QLED 4K,320000,Available,2
+SAM042,TV,Samsung 65-inch OLED 4K S95C,250000,Available,2
+SAM043,TV,Samsung 55-inch The Frame QLED,89999,Available,2
+SAM044,TV,Samsung 50-inch Crystal Vision 4K,45999,Available,2
+SAM045,TV,Samsung 43-inch Crystal 4K Vivid,29999,Available,2
+SAM046,TV,Samsung 32-inch Smart HD TV,13999,Available,2
+SAM047,TV,Samsung 98-inch QLED 4K,650000,Out of Stock,2
+SAM048,TV,Samsung The Serif 55-inch,94999,Available,2
+SAM049,TV,Samsung The Freestyle Projector,59999,Limited Stock,1
+SAM050,TV,Samsung The Premiere 4K Projector,349999,Available,2
+SAM051,Monitor,Samsung 49-inch Odyssey OLED G9,159999,Available,3
+SAM052,Monitor,Samsung 34-inch Odyssey G5,39999,Available,3
+SAM053,Monitor,Samsung 32-inch Smart Monitor M8,49999,Out of Stock,3
+SAM054,Monitor,Samsung 27-inch Curved Monitor,14999,Available,3
+SAM055,Monitor,Samsung 24-inch Essential Monitor,8999,Available,3
+SAM056,Refrigerator,Samsung 865L French Door Bespoke,245000,Available,10
+SAM057,Refrigerator,Samsung 653L Side by Side,85000,Available,10
+SAM058,Refrigerator,Samsung 580L Side by Side,72999,Limited Stock,10
+SAM059,Refrigerator,Samsung 393L Double Door,42999,Available,10
+SAM060,Refrigerator,Samsung 324L Double Door,35999,Available,10
+SAM061,Refrigerator,Samsung 256L Double Door,26999,Available,10
+SAM062,Refrigerator,Samsung 236L Double Door,24999,Out of Stock,10
+SAM063,Refrigerator,Samsung 189L Single Door,15999,Available,10
+SAM064,Refrigerator,Samsung 215L Single Door,18999,Available,10
+SAM065,Washing Machine,Samsung 11kg Front Load (AI Ecobubble),54999,Available,10
+SAM066,Washing Machine,Samsung 9kg Front Load,42999,Available,10
+SAM067,Washing Machine,Samsung 8kg Front Load,36999,Limited Stock,10
+SAM068,Washing Machine,Samsung 7kg Front Load,29999,Available,10
+SAM069,Washing Machine,Samsung 10kg Top Load,28999,Available,10
+SAM070,Washing Machine,Samsung 9kg Top Load,25999,Out of Stock,10
+SAM071,Washing Machine,Samsung 7.5kg Top Load,19999,Available,10
+SAM072,Washing Machine,Samsung 6.5kg Top Load,16999,Available,10
+SAM073,Washing Machine,Samsung 8.5kg Semi-Automatic,14999,Available,5
+SAM074,Washing Machine,Samsung 7kg Semi-Automatic,11999,Available,5
+SAM075,AC,Samsung 1.5 Ton 5 Star WindFree Inverter,45999,Available,10
+SAM076,AC,Samsung 1.5 Ton 3 Star WindFree Inverter,38999,Available,10
+SAM077,AC,Samsung 2 Ton 3 Star Inverter Split,49999,Out of Stock,10
+SAM078,AC,Samsung 1 Ton 4 Star Inverter Split,32999,Limited Stock,10
+SAM079,AC,Samsung 1.5 Ton 5 Star Window AC,31999,Available,5
+SAM080,Microwave,Samsung 32L Convection Microwave,18999,Available,1
+SAM081,Microwave,Samsung 28L Convection Microwave,14999,Available,1
+SAM082,Microwave,Samsung 23L Solo Microwave,6999,Available,1
+SAM083,Appliance,Samsung Dishwasher 13 Place Setting,38999,Available,2
+SAM084,Appliance,Samsung Bespoke Jet Stick Vacuum,54999,Limited Stock,2
+SAM085,Appliance,Samsung Jet Bot+ Robot Vacuum,49999,Out of Stock,2
+SAM086,Appliance,Samsung Air Purifier AX46,24999,Available,1
+SAM087,Appliance,Samsung Air Purifier AX32,12999,Available,1
+SAM088,Storage,Samsung 1TB Portable SSD T7,9999,Available,3
+SAM089,Storage,Samsung 2TB Portable SSD T7,16999,Available,3
+SAM090,Storage,Samsung 1TB 990 PRO NVMe M.2 SSD,14999,Available,5
+SAM091,Storage,Samsung 500GB 870 EVO SATA SSD,4500,Out of Stock,5
+SAM092,Mobile Accessory,Samsung 25W Travel Adapter,1299,Available,1
+SAM093,Mobile Accessory,Samsung 45W Travel Adapter,2499,Available,1
+SAM094,Mobile Accessory,Samsung 10000mAh Power Bank,1999,Available,1
+SAM095,Mobile Accessory,Samsung 15W Wireless Charger,3999,Limited Stock,1
+SAM096,TV Accessory,Samsung Soundbar HW-Q990C,94999,Available,1
+SAM097,TV Accessory,Samsung Soundbar HW-B550,18999,Available,1
+SAM098,TV Accessory,Samsung Sound Tower MX-ST50B,24999,Available,1
+SAM099,Laptop Accessory,Samsung Galaxy Book Slim Keyboard,5999,Available,1
+SAM100,Mobile Accessory,Samsung SmartTag 2,2499,Available,1
